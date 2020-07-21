@@ -7,6 +7,6 @@ How to make shortcut `Target`
 - find path to sonic .exe (https://www.softwareok.com/?seite=faq-Windows-10&faq=152). Usually it is `C:\Program Files\SonicWall\Global VPN Client\SWGVC.exe`
 - wrap path in quotes -> `"C:\Program Files\SonicWall\Global VPN Client\SWGVC.exe"`
 - concatenate it with login and password -> `"C:\Program Files\SonicWall\Global VPN Client\SWGVC.exe" putHereLogin putHerePassword`
-- add result string to shortcut `Target`
+- add result string to VPNAutologin.exe shortcut `Target`
 
 ![Image](https://github.com/vnyTobii/SonicVpnAutologin/blob/master/Images/vpnShortcutTarget.png)
