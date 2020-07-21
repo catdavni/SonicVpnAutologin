@@ -9,4 +9,4 @@ How to make shortcut `Target`
 - concatenate it with login and password -> `"C:\Program Files\SonicWall\Global VPN Client\SWGVC.exe" putHereLogin putHerePassword`
 - add result string to shortcut `Target`
 
-![Image]()
+![Image](https://github.com/vnyTobii/SonicVpnAutologin/blob/master/Images/vpnShortcutTarget.png)
